@@ -18,3 +18,9 @@ The above photos show the differences in the statistical summary of the temperat
 - The difference in the mean temperatures was just under 4 degrees. In June the average temperature was 75 degrees and in December it was 71 degrees. The flucation of temperature was fairly minimal which shows tourists would still be likely to shop for ice cream and rent surfboards. 
 
 - The data analysis does show there maybe a few days in December where the shop would be less likely to have customers. The minimum temperature in December was 56 degrees. Since the 3 quartiles are not too far off of June's quartiles, this minimum temperature was an outlier versus a regular temperature. 
+
+- The quartile differences show the temperature was on average 3.67 degrees cooler in December than in June. 
+
+# Summary
+
+This analysis should also show the difference in precipitation for the whole island and also individual stations on the island. The temperature analysis does not show how much it rained in June versus December. If the precipitation levels are higher in December, that could change the conclusion that an ice cream and surf rental shop would still draw customers. The analysis could also show if the desired location may not be ideal if the precipitation was higher for the station near the location versus a station elsewhere on the island. It would be important for these analyses to be run before the client makes a decision.
