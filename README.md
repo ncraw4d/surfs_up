@@ -15,7 +15,7 @@ The purpose of the analysis was to show the differences in temperatures between 
 
 The above photos show the differences in the statistical summary of the temperature data for June and December. These statistics show that the fluctuation of temperatures in Hawaii are minor compared to other parts of the country. Hawaii's temperatures are moderate and allow for a different lifestyle for its tourists and citizens. 
 
-- The difference in the mean temperatures was just under 4 degrees. In June the average temperature was 75 degrees and in December it was 71 degrees. The flucation of temperature was fairly minimal which shows tourists would still be likely to shop for ice cream and rent surfboards. 
+- The difference in the mean temperatures was just under 4 degrees. In June the average temperature was 75 degrees and in December it was 71 degrees. The flucation of temperature was minimal which shows tourists would still be likely to shop for ice cream and rent surfboards. 
 
 - The data analysis does show there maybe a few days in December where the shop would be less likely to have customers. The minimum temperature in December was 56 degrees. Since the 3 quartiles are not too far off of June's quartiles, this minimum temperature was an outlier versus a regular temperature. 
 
